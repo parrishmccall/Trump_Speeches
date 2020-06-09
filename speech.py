@@ -10,6 +10,7 @@ from keras.layers import Dense
 from keras.layers import LSTM
 from keras.optimizers import RMSprop
 
+"""Deprecated. Will not work with new data"""
 
 corpora_dir = "trump_speeches-master/data"
 
